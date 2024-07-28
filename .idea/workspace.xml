@@ -1,37 +1,246 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="71045161-5786-4dbe-974d-86df6aadf810" name="Changes" comment="" />
+    <list default="true" id="71045161-5786-4dbe-974d-86df6aadf810" name="Changes" comment="Commiting somechanges">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/Basic/Enum/enumDemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/Basic/SharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/Basic/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/Basic/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/InterviewQues/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/InterviewQues/HashCodevsEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/ArrayProblems/Array/SecondLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandelling/testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_Design/Builder_design/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_Design/Builder_design/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_Design/Builder_design/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_Design/Builder_design/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_Design/LoggerDesignPattern/InfoLogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_Design/LoggerDesignPattern/LogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LLD_Design/Prototype_DesignPattern/QuizEx/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/StaticDemo/StaticDemoex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/StaticDemo/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/StaticDemo/demo23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/StaticDemo/demp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/genericsDemo/WildCard/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8features/defaultMethods/m1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8features/defaultMethods/m2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8features/defaultMethods/m3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8features/functionalInterface/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8features/lambda/MethodReferencing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jvm/GCDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/AtomicIntegerEx/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/AtomicIntegerEx/ItemResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/CallableFutures/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/CallableFutures/MergeSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/ExecutorDemo/ClientD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/Locks/ReentrantLocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/MonitorLockExample/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/MonitorLockExample/ItemStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/MonitorLockExample/MonitorLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/producerConsume/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/producerConsume/SharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/semaphores/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/semaphores/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/semaphores/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/os_coding/usingThreadClass/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/Collections/map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/Collections/map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/comparatorss/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/comparatorss/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA/ArrayProblems/Array/MergeInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA/ArrayProblems/Array/MergeInterval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD_Design/Builder_design/SingletonDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD_Design/Prototype_DesignPattern/IntelligentStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_Design/Prototype_DesignPattern/scaler/IntelligentStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD_Design/Prototype_DesignPattern/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_Design/Prototype_DesignPattern/scaler/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD_Design/Prototype_DesignPattern/client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_Design/Prototype_DesignPattern/scaler/client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD_Design/Prototype_DesignPattern/prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_Design/Prototype_DesignPattern/scaler/prototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LLD_Design/Prototype_DesignPattern/studentRegistery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LLD_Design/Prototype_DesignPattern/scaler/studentRegistery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/ClassDemo1/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/ClassDemo1/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/InnerClass/LocalInnerClass/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/InnerClass/LocalInnerClass/Door.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/InnerClass/Shop/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/InnerClass/Shop/Door.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/copyConstructor/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/copyConstructor/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/copyConstructor/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/copyConstructor/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/genericsDemo/BoundedParameter/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/genericsDemo/BoundedParameter/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/genericsDemo/EXample1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/genericsDemo/EXample1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/genericsDemo/WildCard/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/genericsDemo/WildCard/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/genericsDemo/genericMethods/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/genericsDemo/genericMethods/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOPS/polymorphism/Overriding/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/polymorphism/Overriding/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamHandsOn/Stream2_MinSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8features/StreamHandsOn/streamDemo/Stream2_MinSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamHandsOn/Stream3_DistinctJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8features/StreamHandsOn/streamDemo/Stream3_DistinctJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamHandsOn/Stream4_First5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8features/StreamHandsOn/streamDemo/Stream4_First5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamHandsOn/StreamFilter1_Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8features/StreamHandsOn/streamDemo/StreamFilter1_Salary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamHandsOn/streamDemo/StreamDemo_ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8features/StreamHandsOn/streamDemo/StreamDemo_ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamHandsOn/streamDemo/StreamDemoex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8features/StreamHandsOn/streamDemo/StreamDemoex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamHandsOn/streamDemo/StreamDemoex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8features/StreamHandsOn/streamDemo/StreamDemoex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/os_coding/ExecutorDemo/PrintTheNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/os_coding/ExecutorDemo/PrintTheNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/os_coding/ExecutorDemo/client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/os_coding/ExecutorDemo/client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/os_coding/threadDemo/HelloPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/os_coding/threadDemo/HelloPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/os_coding/threaddemo3/client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/os_coding/threaddemo3/client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/os_coding/threaddemo3/subtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/os_coding/threaddemo3/subtractor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2dwxyuHSEIYXco7f3K0EBK9wPpi" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.Client.executor": "Run",
+    "Application.ClientD.executor": "Run",
+    "Application.GCDemo.executor": "Run",
+    "Application.HashCodevsEquals.executor": "Run",
+    "Application.Hello.executor": "Run",
+    "Application.MethodReferencing.executor": "Run",
+    "Application.MonitorLock.executor": "Run",
+    "Application.MyThread.executor": "Run",
+    "Application.OOPS.genericsDemo.BoundedParameter.App.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
+    "Application.client.executor": "Run",
+    "Application.demo.executor": "Run",
+    "Application.demo23.executor": "Run",
+    "Application.enumDemp.executor": "Run",
+    "Application.jvmDemo.executor": "Run",
+    "Application.os_coding.ExecutorDemo.client.executor": "Run",
+    "Application.os_coding.MonitorLockExample.Client.executor": "Run",
+    "Application.os_coding.callableDemo.client.executor": "Run",
+    "Application.os_coding.producerConsume.Client.executor": "Debug",
+    "Application.os_coding.semaphores.Client.executor": "Run",
+    "Application.os_coding.threadDemo.demo.executor": "Run",
+    "Application.os_coding.threaddemo3.client.executor": "Run",
+    "Application.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/U6071845/Downloads/Kafka-main/Kafka-main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.Basic.Enum.Example" />
+  <component name="RunManager" selected="Application.MonitorLock">
+    <configuration name="GCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.GCDemo" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.Basic.Enum.*" />
+          <option name="PATTERN" value="jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonitorLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="os_coding.MonitorLockExample.MonitorLock" />
+      <module name="JavaConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="os_coding.MonitorLockExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jvmDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.jvmDemo" />
+      <module name="JavaConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="os_coding.semaphores.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="os_coding.semaphores.Client" />
+      <module name="JavaConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="os_coding.semaphores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basics.Basic.test" />
+      <module name="JavaConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basics.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -41,9 +250,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.MonitorLock" />
+        <item itemvalue="Application.GCDemo" />
+        <item itemvalue="Application.jvmDemo" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.os_coding.semaphores.Client" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -54,7 +275,193 @@
       <option name="presentableId" value="Default" />
       <updated>1710933201630</updated>
       <workItem from="1710933202658" duration="1000" />
+      <workItem from="1710998132804" duration="74000" />
+      <workItem from="1711362019459" duration="1262000" />
+      <workItem from="1711548649082" duration="599000" />
+      <workItem from="1712039638542" duration="2706000" />
+      <workItem from="1712064951507" duration="9979000" />
+      <workItem from="1712214411376" duration="1426000" />
+      <workItem from="1712238305624" duration="8295000" />
+      <workItem from="1712296855376" duration="2041000" />
+      <workItem from="1712314928829" duration="3196000" />
+      <workItem from="1712547883724" duration="644000" />
+      <workItem from="1712553116210" duration="1190000" />
+      <workItem from="1712594027350" duration="730000" />
+      <workItem from="1712914168495" duration="1644000" />
+      <workItem from="1713245976806" duration="2705000" />
+      <workItem from="1713337499674" duration="585000" />
+      <workItem from="1713379738795" duration="3930000" />
+      <workItem from="1713417010032" duration="1851000" />
+      <workItem from="1713801885577" duration="779000" />
+      <workItem from="1713856733383" duration="8794000" />
+      <workItem from="1713890123809" duration="1034000" />
+      <workItem from="1713938450007" duration="10523000" />
+      <workItem from="1714039137295" duration="628000" />
+      <workItem from="1715237139336" duration="749000" />
+      <workItem from="1715320750585" duration="597000" />
+      <workItem from="1715508140009" duration="2724000" />
+      <workItem from="1715532230853" duration="2225000" />
+      <workItem from="1715576351537" duration="7160000" />
+      <workItem from="1715851006168" duration="3103000" />
+      <workItem from="1715924842096" duration="3241000" />
+      <workItem from="1716392010387" duration="738000" />
+      <workItem from="1716442298025" duration="13000" />
+      <workItem from="1716448729762" duration="1115000" />
+      <workItem from="1716530598996" duration="2363000" />
+      <workItem from="1716898258078" duration="1577000" />
+      <workItem from="1716978082115" duration="3787000" />
+      <workItem from="1717052503457" duration="3620000" />
+      <workItem from="1717132758697" duration="7366000" />
+      <workItem from="1718788978371" duration="1815000" />
+      <workItem from="1718953326499" duration="1232000" />
+      <workItem from="1719409727101" duration="556000" />
+      <workItem from="1719498179090" duration="122000" />
+      <workItem from="1719498323336" duration="23000" />
+      <workItem from="1719498374374" duration="48000" />
+      <workItem from="1719498443681" duration="62000" />
+      <workItem from="1719498538838" duration="150000" />
+      <workItem from="1720604138282" duration="1091000" />
+      <workItem from="1720678776335" duration="1231000" />
+      <workItem from="1720694721199" duration="3014000" />
+      <workItem from="1721380205653" duration="28777000" />
+      <workItem from="1721615549719" duration="1746000" />
+      <workItem from="1721624716622" duration="436000" />
+      <workItem from="1721643123502" duration="48494000" />
+      <workItem from="1721884157009" duration="6010000" />
+      <workItem from="1721962134857" duration="619000" />
+      <workItem from="1722162415709" duration="4350000" />
     </task>
+    <task id="LOCAL-00001" summary="Commiting somechanges">
+      <created>1712171470655</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712171470655</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="6524483b-c0dc-495e-936c-928d368e897a" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="6524483b-c0dc-495e-936c-928d368e897a">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commiting somechanges" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commiting somechanges" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ExceptionHandelling/testing.java</url>
+          <line>16</line>
+          <properties class="ExceptionHandelling.testing" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/os_coding/threadDemo/demo.java</url>
+          <line>4</line>
+          <properties class="os_coding.threadDemo.demo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/OOPS/genericsDemo/BoundedParameter/App.java</url>
+          <line>6</line>
+          <properties class="OOPS.genericsDemo.BoundedParameter.App" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/os_coding/MonitorLockExample/MonitorLock.java</url>
+          <line>30</line>
+          <properties class="os_coding.MonitorLockExample.MonitorLock" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/os_coding/MonitorLockExample/Client.java</url>
+          <line>3</line>
+          <properties class="os_coding.MonitorLockExample.Client" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Basics/Basic/Enum/enumDemp.java</url>
+          <line>23</line>
+          <properties class="Basics.Basic.Enum.enumDemp" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OOPS/StaticDemo/demo23.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/os_coding/threadDemo1/client.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
